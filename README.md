@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | https://eden-daniel.github.io/Alura-MIDI/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/Eden-Daniel/Alura-MIDI/main/images/alura-midi-cover.png)
 
 ## Sobre o projeto
 
