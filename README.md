@@ -14,6 +14,6 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Sobre o projeto
 
-Projeto desenvolvido durante um curso do Alura onde aprendi a interação do JavaScript com html, a interação é feita com efeitos sonoros de uma bateria, com teclas onde cada uma tem um son diferente.
+Este projeto podemos reproduzir sons de uma bateria ao clicar nos botões ou usando as teclas enter e espaço, cada botão faz o seu son.
 
 Acima está a url para testar.
